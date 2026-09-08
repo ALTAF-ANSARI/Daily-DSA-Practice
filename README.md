@@ -27,7 +27,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 ### 🔢 Arrays
 
-- **Day 01 — Array (Part 1)**
+- **Day 01 — Array (Part 1)** ✅
 - **Day 02 — Array (Part 2)**
 - **Day 03 — Array (Part 3)**
 - **Day 04 — Array (Part 4)**
@@ -103,6 +103,14 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 ---
 
+## 📊 Completed Problems
+
+| Day | Topic | Problem | Difficulty | Complexity |
+|---:|---|---|---|---|
+| 01 | Arrays — Part 1 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | `O(n)` time, `O(1)` space |
+
+---
+
 ## 📂 Folder Structure
 
 ```text
@@ -110,6 +118,9 @@ Daily-DSA-Practice/
 │
 ├── Arrays/
 │   ├── Day-01-Array-Part-1/
+│   │   └── Majority-Element/
+│   │       ├── README.md
+│   │       └── solution.cpp
 │   ├── Day-02-Array-Part-2/
 │   ├── Day-03-Array-Part-3/
 │   ├── Day-04-Array-Part-4/
@@ -175,20 +186,20 @@ Daily-DSA-Practice/
 
 ## 📝 Problem Structure
 
-When I start solving problems inside a day, each problem will be organized like this:
+Each problem follows this structure:
 
 ```text
-Day-01-Array-Part-1/
+Day-XX-Topic-Part-X/
 │
-├── Problem-Name/
-│   ├── README.md
-│   ├── approach.md
-│   └── solution.cpp
+└── Problem-Name/
+    ├── README.md
+    ├── approach.md
+    └── solution.cpp
 ```
 
 ### Each Problem Contains
 
-- 📄 **README.md** — Problem name, source, difficulty, and problem statement/reference
+- 📄 **README.md** — Problem name, source, difficulty, and problem reference
 - 💡 **approach.md** — Intuition, algorithm, and complexity analysis
 - 💻 **solution.cpp** — Clean C++ solution
 
@@ -197,21 +208,7 @@ Day-01-Array-Part-1/
 ## 🔥 Daily Workflow
 
 ```text
-Understand
-    ↓
-Analyze
-    ↓
-Think
-    ↓
-Solve
-    ↓
-Optimize
-    ↓
-Analyze Complexity
-    ↓
-Commit
-    ↓
-Repeat
+Understand → Analyze → Think → Solve → Optimize → Analyze Complexity → Commit → Repeat
 ```
 
 ---
@@ -232,7 +229,9 @@ Repeat
 
 **Roadmap:** 34 Days
 
-**Current Status:** 🚀 Journey Started
+**Current Day:** Day 01 ✅
+
+**Problems Completed:** 1
 
 **Primary Language:** C++
 
