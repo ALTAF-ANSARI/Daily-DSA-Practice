@@ -27,7 +27,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 ### 🔢 Arrays
 
-- **Day 01 — Array (Part 1)** ✅
+- **Day 01 — Array (Part 1)** 🔄 2 Problems
 - **Day 02 — Array (Part 2)**
 - **Day 03 — Array (Part 3)**
 - **Day 04 — Array (Part 4)**
@@ -105,9 +105,10 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 ## 📊 Completed Problems
 
-| Day | Topic | Problem | Difficulty | Complexity |
-|---:|---|---|---|---|
-| 01 | Arrays — Part 1 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | `O(n)` time, `O(1)` space |
+| # | Day | Topic | Problem | Difficulty | Complexity |
+|---:|---:|---|---|---|---|
+| 1 | 01 | Arrays — Part 1 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | `O(n)` time, `O(1)` space |
+| 2 | 01 | Arrays — Part 1 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | `O(n²)` time, `O(n²)` space |
 
 ---
 
@@ -118,7 +119,10 @@ Daily-DSA-Practice/
 │
 ├── Arrays/
 │   ├── Day-01-Array-Part-1/
-│   │   └── Majority-Element/
+│   │   ├── Majority-Element/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   └── Find-Missing-and-Repeated-Values/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-02-Array-Part-2/
@@ -193,14 +197,13 @@ Day-XX-Topic-Part-X/
 │
 └── Problem-Name/
     ├── README.md
-    ├── approach.md
     └── solution.cpp
 ```
 
 ### Each Problem Contains
 
 - 📄 **README.md** — Problem name, source, difficulty, and problem reference
-- 💡 **approach.md** — Intuition, algorithm, and complexity analysis
+- 💡 **Approach** — Intuition, algorithm, and complexity analysis included in the problem README
 - 💻 **solution.cpp** — Clean C++ solution
 
 ---
@@ -229,9 +232,9 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Roadmap:** 34 Days
 
-**Current Day:** Day 01 ✅
+**Current Day:** Day 01 🔄
 
-**Problems Completed:** 1
+**Problems Completed:** 2
 
 **Primary Language:** C++
 
