@@ -27,7 +27,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 ### 🔢 Arrays
 
-- **Day 01 — Array (Part 1)** 🔄 3 Problems
+- **Day 01 — Array (Part 1)** 🔄 4 Problems
 - **Day 02 — Array (Part 2)**
 - **Day 03 — Array (Part 3)**
 - **Day 04 — Array (Part 4)**
@@ -110,6 +110,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 1 | 01 | Arrays — Part 1 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | `O(n)` time, `O(1)` space |
 | 2 | 01 | Arrays — Part 1 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | `O(n²)` time, `O(n²)` space |
 | 3 | 01 | Arrays — Part 1 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | `O(m + n)` time, `O(1)` space |
+| 4 | 01 | Arrays — Part 1 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | `O(n)` time, `O(1)` space |
 
 ---
 
@@ -126,7 +127,10 @@ Daily-DSA-Practice/
 │   │   ├── Find-Missing-and-Repeated-Values/
 │   │   │   ├── README.md
 │   │   │   └── solution.cpp
-│   │   └── Merge-Sorted-Array/
+│   │   ├── Merge-Sorted-Array/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   └── Single-Number/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-02-Array-Part-2/
@@ -238,7 +242,7 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Current Day:** Day 01 🔄
 
-**Problems Completed:** 3
+**Problems Completed:** 4
 
 **Primary Language:** C++
 
