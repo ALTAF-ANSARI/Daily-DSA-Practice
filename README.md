@@ -4,121 +4,239 @@
 
 ### One Problem. One Solution. Every Day. 🚀
 
-A structured collection of my daily **Data Structures & Algorithms** practice in **C++**, organized topic-wise for consistent learning, problem solving, and revision.
+A structured collection of my **34-day Data Structures & Algorithms journey**, practiced in **C++** and organized exactly by the topic-wise and part-wise roadmap I am following.
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DSA](https://img.shields.io/badge/Focus-DSA-FF6F00?style=for-the-badge)
+![34 Days](https://img.shields.io/badge/Roadmap-34_Days-8A2BE2?style=for-the-badge)
 ![Daily Practice](https://img.shields.io/badge/Practice-Daily-2EA44F?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Purpose
+## 🎯 About This Journey
 
-This repository documents my journey of becoming stronger at **DSA and problem solving** through consistent daily practice.
+This repository documents my day-by-day journey of strengthening **Data Structures, Algorithms, problem solving, and coding skills**.
 
-Every solution is organized by topic so the repository can also serve as a **revision guide** when preparing for coding interviews and technical assessments.
-
----
-
-## 📚 Topics
-
-| Topic | Practice |
-|---|---|
-| 🔢 Arrays | 🔄 In Progress |
-| 🔤 Strings | 🔄 In Progress |
-| 🔗 Linked List | 🔄 In Progress |
-| 📚 Stack | 🔄 In Progress |
-| 🚶 Queue | 🔄 In Progress |
-| 🌳 Binary Tree | 🔄 In Progress |
-| 🌲 BST | 🔄 In Progress |
-| ⛰️ Heap | 🔄 In Progress |
-| 🕸️ Graph | 🔄 In Progress |
-| 🔎 Binary Search | 🔄 In Progress |
-| 🔁 Recursion | 🔄 In Progress |
-| 🧩 Backtracking | 🔄 In Progress |
-| 💰 Greedy | 🔄 In Progress |
-| 🧠 Dynamic Programming | 🔄 In Progress |
-| #️⃣ Hashing | 🔄 In Progress |
-| 🔤 Trie | 🔄 In Progress |
-| ⚙️ Bit Manipulation | 🔄 In Progress |
-| 🔀 Sorting | 🔄 In Progress |
+The roadmap is divided into **34 days**, with related topics grouped into parts. Every day has its own folder, making the repository easy to navigate and useful as a long-term revision resource.
 
 ---
 
-## 📂 Repository Structure
+## 🗺️ 34-Day DSA Roadmap
+
+### 🔢 Arrays
+
+- **Day 01 — Array (Part 1)**
+- **Day 02 — Array (Part 2)**
+- **Day 03 — Array (Part 3)**
+- **Day 04 — Array (Part 4)**
+- **Day 05 — Array (Part 5)**
+
+### 🔤 Strings
+
+- **Day 06 — Strings (Part 1)**
+- **Day 07 — Strings (Part 2)**
+
+### 🔎 Binary Search
+
+- **Day 08 — Binary Search**
+
+### 🔁 Recursion & Backtracking
+
+- **Day 09 — Recursion & Backtracking**
+- **Day 10 — Recursion & Backtracking**
+
+### 🔗 Linked List
+
+- **Day 11 — Linked List (Part 1)**
+- **Day 12 — Linked List (Part 2)**
+
+### 📚 Stacks & Queues
+
+- **Day 13 — Stacks & Queues (Part 1)**
+- **Day 14 — Stacks & Queues (Part 2)**
+- **Day 15 — Stacks & Queues (Part 3)**
+
+### 🌳 Binary Trees
+
+- **Day 16 — Binary Trees (Part 1)**
+- **Day 17 — Binary Trees (Part 2)**
+- **Day 18 — Binary Trees (Part 3)**
+- **Day 19 — Binary Trees (Part 4)**
+
+### 🌲 BST
+
+- **Day 20 — BST (Part 1)**
+- **Day 21 — BST (Part 2)**
+- **Day 22 — BST (Part 3)**
+
+### ⛰️ Heaps
+
+- **Day 23 — Heaps**
+
+### 🔤 Tries
+
+- **Day 24 — Tries**
+
+### 🕸️ Graphs
+
+- **Day 25 — Graphs (Part 1)**
+- **Day 26 — Graphs (Part 2)**
+- **Day 27 — Graphs (Part 3)**
+- **Day 28 — Graphs (Part 4)**
+
+### 🧠 Dynamic Programming
+
+- **Day 29 — DP (Part 1)**
+- **Day 30 — DP (Part 2)**
+- **Day 31 — DP (Part 3)**
+- **Day 32 — DP (Part 4)**
+
+### 💰 Greedy
+
+- **Day 33 — Greedy**
+
+### 🧩 Miscellaneous
+
+- **Day 34 — Miscellaneous**
+
+---
+
+## 📂 Folder Structure
 
 ```text
 Daily-DSA-Practice/
 │
 ├── Arrays/
+│   ├── Day-01-Array-Part-1/
+│   ├── Day-02-Array-Part-2/
+│   ├── Day-03-Array-Part-3/
+│   ├── Day-04-Array-Part-4/
+│   └── Day-05-Array-Part-5/
+│
 ├── Strings/
-├── Linked-List/
-├── Stack/
-├── Queue/
-├── Binary-Tree/
-├── BST/
-├── Heap/
-├── Graph/
+│   ├── Day-06-Strings-Part-1/
+│   └── Day-07-Strings-Part-2/
+│
 ├── Binary-Search/
-├── Recursion/
-├── Backtracking/
-├── Greedy/
+│   └── Day-08-Binary-Search/
+│
+├── Recursion-Backtracking/
+│   ├── Day-09-Recursion-Backtracking/
+│   └── Day-10-Recursion-Backtracking/
+│
+├── Linked-List/
+│   ├── Day-11-Linked-List-Part-1/
+│   └── Day-12-Linked-List-Part-2/
+│
+├── Stacks-Queues/
+│   ├── Day-13-Stacks-Queues-Part-1/
+│   ├── Day-14-Stacks-Queues-Part-2/
+│   └── Day-15-Stacks-Queues-Part-3/
+│
+├── Binary-Trees/
+│   ├── Day-16-Binary-Trees-Part-1/
+│   ├── Day-17-Binary-Trees-Part-2/
+│   ├── Day-18-Binary-Trees-Part-3/
+│   └── Day-19-Binary-Trees-Part-4/
+│
+├── BST/
+│   ├── Day-20-BST-Part-1/
+│   ├── Day-21-BST-Part-2/
+│   └── Day-22-BST-Part-3/
+│
+├── Heaps/
+│   └── Day-23-Heaps/
+│
+├── Tries/
+│   └── Day-24-Tries/
+│
+├── Graphs/
+│   ├── Day-25-Graphs-Part-1/
+│   ├── Day-26-Graphs-Part-2/
+│   ├── Day-27-Graphs-Part-3/
+│   └── Day-28-Graphs-Part-4/
+│
 ├── Dynamic-Programming/
-├── Hashing/
-├── Trie/
-├── Bit-Manipulation/
-└── Sorting/
+│   ├── Day-29-DP-Part-1/
+│   ├── Day-30-DP-Part-2/
+│   ├── Day-31-DP-Part-3/
+│   └── Day-32-DP-Part-4/
+│
+├── Greedy/
+│   └── Day-33-Greedy/
+│
+└── Miscellaneous/
+    └── Day-34-Miscellaneous/
 ```
-
-Each problem will follow a consistent structure:
-
-```text
-Topic/
-└── Problem-Name/
-    ├── README.md
-    ├── approach.md
-    └── solution.cpp
-```
-
-### 📝 Each Problem Contains
-
-- **README.md** → Problem statement, difficulty, and source
-- **approach.md** → Intuition, algorithm, and complexity analysis
-- **solution.cpp** → Final C++ implementation
 
 ---
 
-## 📈 My Practice Philosophy
+## 📝 Problem Structure
 
-> **Consistency beats intensity.**
+When I start solving problems inside a day, each problem will be organized like this:
 
-I am focusing on understanding the problem, finding an efficient approach, writing clean code, and analyzing its time and space complexity — rather than simply collecting solutions.
+```text
+Day-01-Array-Part-1/
+│
+├── Problem-Name/
+│   ├── README.md
+│   ├── approach.md
+│   └── solution.cpp
+```
 
-### 🔥 Daily Workflow
+### Each Problem Contains
 
-`Understand` → `Think` → `Solve` → `Optimize` → `Analyze` → `Commit` → `Repeat`
+- 📄 **README.md** — Problem name, source, difficulty, and problem statement/reference
+- 💡 **approach.md** — Intuition, algorithm, and complexity analysis
+- 💻 **solution.cpp** — Clean C++ solution
+
+---
+
+## 🔥 Daily Workflow
+
+```text
+Understand
+    ↓
+Analyze
+    ↓
+Think
+    ↓
+Solve
+    ↓
+Optimize
+    ↓
+Analyze Complexity
+    ↓
+Commit
+    ↓
+Repeat
+```
 
 ---
 
 ## 🏆 Goals
 
-- 🧠 Strengthen core DSA concepts
-- ⚡ Improve problem-solving speed
-- 📐 Master time and space complexity analysis
-- 💻 Write clean and optimized C++ solutions
+- 🧠 Build strong DSA fundamentals
+- ⚡ Improve problem-solving ability
+- 📐 Understand time and space complexity
+- 💻 Write clean and optimized C++ code
 - 🎯 Prepare for coding interviews
-- 📚 Build a long-term DSA revision resource
-- 🔥 Maintain a consistent daily practice streak
+- 📚 Create a reliable DSA revision resource
+- 🔥 Maintain consistency throughout the journey
 
 ---
 
-## 🚀 Progress
+## 📈 Progress
 
-**Started:** September 2026
+**Roadmap:** 34 Days
 
-**Goal:** Solve and document problems consistently every day.
+**Current Status:** 🚀 Journey Started
+
+**Primary Language:** C++
+
+**Focus:** Data Structures • Algorithms • Problem Solving
 
 ---
 
@@ -126,6 +244,6 @@ I am focusing on understanding the problem, finding an efficient approach, writi
 
 ### 💻 Code • 🧠 Think • ⚡ Optimize • 🚀 Repeat
 
-Made with consistency and C++ ❤️
+**Consistency beats intensity.**
 
 </div>
