@@ -6,19 +6,17 @@
 **Platform:** LeetCode  
 **Problem:** https://leetcode.com/problems/find-missing-and-repeated-values/
 
-## Problem
-
-You are given an `n x n` grid containing every integer from `1` to `n²` exactly once except that one value is repeated and one value is missing. Return the repeated value and the missing value.
-
 ## Approach
 
-Use an `unordered_set` to detect the repeated value while calculating the actual sum of all grid elements.
+Use an `unordered_set` to detect the repeated value and the sum of all grid elements to determine the missing value.
 
-Then calculate the expected sum of numbers from `1` to `n²`:
+Let:
+- `a` = repeated value
+- `b` = missing value
+- `expectedSum` = sum of integers from `1` to `n²`
+- `actualSum` = sum of all values present in the grid
 
-`expectedSum = n² × (n² + 1) / 2`
-
-If `a` is the repeated value and `b` is the missing value:
+Because the repeated value appears one extra time and the missing value is absent:
 
 `actualSum = expectedSum + a - b`
 
@@ -26,7 +24,11 @@ Therefore:
 
 `b = expectedSum - actualSum + a`
 
+The grid is traversed once to calculate the actual sum and identify the repeated value.
+
 ## Complexity
 
-- **Time:** `O(n²)`
-- **Space:** `O(n²)`
+Let `N = n²`, the total number of cells.
+
+- **Time:** `O(N)` average
+- **Space:** `O(N)` for the hash set
