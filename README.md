@@ -9,7 +9,7 @@ A structured collection of my **34-day Data Structures & Algorithms journey**, p
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DSA](https://img.shields.io/badge/Focus-DSA-FF6F00?style=for-the-badge)
 ![34 Days](https://img.shields.io/badge/Roadmap-34_Days-8A2BE2?style=for-the-badge)
-![Daily Practice](https://img.shields.io/badge/Practice-Daily-2EA44F?style=for-the-badge)
+![Daily Practice](https://img.shields.io/badge/Practice-Daily-2EA44C?style=for-the-badge)
 
 </div>
 
@@ -27,7 +27,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 ### 🔢 Arrays
 
-- **Day 01 — Array (Part 1)** 🔄 4 Problems
+- **Day 01 — Array (Part 1)** 🔄 6 Problems
 - **Day 02 — Array (Part 2)**
 - **Day 03 — Array (Part 3)**
 - **Day 04 — Array (Part 4)**
@@ -111,6 +111,8 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 2 | 01 | Arrays — Part 1 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | `O(n²)` time, `O(n²)` space |
 | 3 | 01 | Arrays — Part 1 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | `O(m + n)` time, `O(1)` space |
 | 4 | 01 | Arrays — Part 1 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | `O(n)` time, `O(1)` space |
+| 5 | 01 | Arrays — Part 1 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | `O(n)` time, `O(1)` space |
+| 6 | 01 | Arrays — Part 1 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | `O(log |n|)` time, `O(log |n|)` space |
 
 ---
 
@@ -130,7 +132,13 @@ Daily-DSA-Practice/
 │   │   ├── Merge-Sorted-Array/
 │   │   │   ├── README.md
 │   │   │   └── solution.cpp
-│   │   └── Single-Number/
+│   │   ├── Single-Number/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   ├── Best-Time-to-Buy-and-Sell-Stock/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   └── Pow-x-n/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-02-Array-Part-2/
@@ -242,7 +250,7 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Current Day:** Day 01 🔄
 
-**Problems Completed:** 4
+**Problems Completed:** 6
 
 **Primary Language:** C++
 
