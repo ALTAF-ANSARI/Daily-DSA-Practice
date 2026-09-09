@@ -28,7 +28,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 ### 🔢 Arrays
 
 - **Day 01 — Array (Part 1)** 🔄 6 Problems
-- **Day 02 — Array (Part 2)** 🔄 1 Problem
+- **Day 02 — Array (Part 2)** 🔄 2 Problems
 - **Day 03 — Array (Part 3)**
 - **Day 04 — Array (Part 4)**
 - **Day 05 — Array (Part 5)**
@@ -114,6 +114,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 5 | 01 | Arrays — Part 1 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | `O(n)` time, `O(1)` space |
 | 6 | 01 | Arrays — Part 1 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | `O(log |n|)` time, `O(log |n|)` space |
 | 7 | 02 | Arrays — Part 2 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | `O(n)` time, `O(1)` space |
+| 8 | 02 | Arrays — Part 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | `O(n)` time, `O(1)` space |
 
 ---
 
@@ -131,7 +132,10 @@ Daily-DSA-Practice/
 │   │   ├── Best-Time-to-Buy-and-Sell-Stock/
 │   │   └── Pow-x-n/
 │   ├── Day-02-Array-Part-2/
-│   │   └── Maximum-Subarray/
+│   │   ├── Maximum-Subarray/
+│   │   │   ├── README.md
+│   │   │   └── solution.cpp
+│   │   └── Container-With-Most-Water/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-03-Array-Part-3/
@@ -242,7 +246,7 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Current Day:** Day 02 🔄
 
-**Problems Completed:** 7
+**Problems Completed:** 8
 
 **Primary Language:** C++
 
