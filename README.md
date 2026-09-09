@@ -28,7 +28,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 ### 🔢 Arrays
 
 - **Day 01 — Array (Part 1)** 🔄 6 Problems
-- **Day 02 — Array (Part 2)**
+- **Day 02 — Array (Part 2)** 🔄 1 Problem
 - **Day 03 — Array (Part 3)**
 - **Day 04 — Array (Part 4)**
 - **Day 05 — Array (Part 5)**
@@ -113,6 +113,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 4 | 01 | Arrays — Part 1 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | `O(n)` time, `O(1)` space |
 | 5 | 01 | Arrays — Part 1 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | `O(n)` time, `O(1)` space |
 | 6 | 01 | Arrays — Part 1 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | `O(log |n|)` time, `O(log |n|)` space |
+| 7 | 02 | Arrays — Part 2 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | `O(n)` time, `O(1)` space |
 
 ---
 
@@ -124,24 +125,15 @@ Daily-DSA-Practice/
 ├── Arrays/
 │   ├── Day-01-Array-Part-1/
 │   │   ├── Majority-Element/
-│   │   │   ├── README.md
-│   │   │   └── solution.cpp
 │   │   ├── Find-Missing-and-Repeated-Values/
-│   │   │   ├── README.md
-│   │   │   └── solution.cpp
 │   │   ├── Merge-Sorted-Array/
-│   │   │   ├── README.md
-│   │   │   └── solution.cpp
 │   │   ├── Single-Number/
-│   │   │   ├── README.md
-│   │   │   └── solution.cpp
 │   │   ├── Best-Time-to-Buy-and-Sell-Stock/
-│   │   │   ├── README.md
-│   │   │   └── solution.cpp
 │   │   └── Pow-x-n/
+│   ├── Day-02-Array-Part-2/
+│   │   └── Maximum-Subarray/
 │   │       ├── README.md
 │   │       └── solution.cpp
-│   ├── Day-02-Array-Part-2/
 │   ├── Day-03-Array-Part-3/
 │   ├── Day-04-Array-Part-4/
 │   └── Day-05-Array-Part-5/
@@ -248,9 +240,9 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Roadmap:** 34 Days
 
-**Current Day:** Day 01 🔄
+**Current Day:** Day 02 🔄
 
-**Problems Completed:** 6
+**Problems Completed:** 7
 
 **Primary Language:** C++
 
