@@ -28,7 +28,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 ### 🔢 Arrays
 
 - **Day 01 — Array (Part 1)** 🔄 6 Problems
-- **Day 02 — Array (Part 2)** 🔄 5 Problems
+- **Day 02 — Array (Part 2)** 🔄 6 Problems
 - **Day 03 — Array (Part 3)**
 - **Day 04 — Array (Part 4)**
 - **Day 05 — Array (Part 5)**
@@ -118,6 +118,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 9 | 02 | Arrays — Part 2 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | `O(n)` time, `O(1)` space |
 | 10 | 02 | Arrays — Part 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | `O(n²)` time, `O(1)` auxiliary space |
 | 11 | 02 | Arrays — Part 2 | [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | `O(n³)` time, `O(1)` auxiliary space |
+| 12 | 02 | Arrays — Part 2 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | `O(log(n × m))` time, `O(1)` space |
 
 ---
 
@@ -139,7 +140,8 @@ Daily-DSA-Practice/
 │   │   ├── Container-With-Most-Water/
 │   │   ├── Sort-Colors/
 │   │   ├── 3Sum/
-│   │   └── 4Sum/
+│   │   ├── 4Sum/
+│   │   └── Search-a-2D-Matrix/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-03-Array-Part-3/
@@ -250,7 +252,7 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Current Day:** Day 02 🔄
 
-**Problems Completed:** 11
+**Problems Completed:** 12
 
 **Primary Language:** C++
 
