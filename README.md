@@ -29,7 +29,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 
 - **Day 01 — Array (Part 1)** 🔄 6 Problems
 - **Day 02 — Array (Part 2)** 🔄 6 Problems
-- **Day 03 — Array (Part 3)**
+- **Day 03 — Array (Part 3)** 🔄 1 Problem
 - **Day 04 — Array (Part 4)**
 - **Day 05 — Array (Part 5)**
 
@@ -119,6 +119,7 @@ The roadmap is divided into **34 days**, with related topics grouped into parts.
 | 10 | 02 | Arrays — Part 2 | [15. 3Sum](https://leetcode.com/problems/3sum/) | Medium | `O(n²)` time, `O(1)` auxiliary space |
 | 11 | 02 | Arrays — Part 2 | [18. 4Sum](https://leetcode.com/problems/4sum/) | Medium | `O(n³)` time, `O(1)` auxiliary space |
 | 12 | 02 | Arrays — Part 2 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | `O(log(n × m))` time, `O(1)` space |
+| 13 | 03 | Arrays — Part 3 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | `O(n)` time, `O(1)` space |
 
 ---
 
@@ -145,6 +146,9 @@ Daily-DSA-Practice/
 │   │       ├── README.md
 │   │       └── solution.cpp
 │   ├── Day-03-Array-Part-3/
+│   │   └── Next-Permutation/
+│   │       ├── README.md
+│   │       └── solution.cpp
 │   ├── Day-04-Array-Part-4/
 │   └── Day-05-Array-Part-5/
 │
@@ -250,9 +254,9 @@ Understand → Analyze → Think → Solve → Optimize → Analyze Complexity �
 
 **Roadmap:** 34 Days
 
-**Current Day:** Day 02 🔄
+**Current Day:** Day 03 🔄
 
-**Problems Completed:** 12
+**Problems Completed:** 13
 
 **Primary Language:** C++
 
